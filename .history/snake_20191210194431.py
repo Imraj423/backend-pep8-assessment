@@ -68,7 +68,7 @@ while key != 27:               # While Esc key is not pressed
         snake[0][1] = 1
 
     # Exit if snake crosses the boundaries (Uncomment to enable)
-    # if snake[0][0] == 0 or snake[0][0] == 19 or snake[0][1] == 0 or
+    # if snake[0][0] == 0 or snake[0][0] == 19 or snake[0][1] == 0 or 
     # snake[0][1] == 59: break
 
     # If snake runs over itself
